@@ -1,18 +1,24 @@
-<h4 align="center">Hello! I’m Bhola Kumar, a dedicated Computer Science and Engineering student with a strong passion for software development. I am currently pursuing my degree at Jodhpur Institute of Engineering and Technology, where I am honing my skills in full stack development and problem-solving.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BholaCraaft07&label=Profile%20views&color=0e75b6&style=flat" alt="bholacraft07" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhola+Kumar)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bholacraft07" alt="bholacraft07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhola-kumar-03" target="blank"><img src="https://img.shields.io/twitter/follow/bhola-kumar-03?logo=twitter&style=for-the-badge" alt="bhola-kumar-03" /></a> </p>
+<h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **FindJob**
+<br/>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **bholakumar1990kp@gmail.com**
+  <div align="start">
+ 
+ 🌱 I’m currently learning **React , Redux ,Node js, Express Js ,MongoDb**
+<br/>
+<br/>
+💬 Ask me about ** HTML ,CSS,JavaScript,React**
+<br/>
+<br/>
+📫 How to reach me **https://www.linkedin.com/in/bhola-kumar-32115b250/**
+<br/>
+<br/>
+ </div>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,18 +67,45 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"><a href="https://www.instagram.com/bhola_kumar_03"/></img>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  ><a href="https://discord.com/channels/@me"/></img>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  ><a href="#"/></img>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  ><a href="https://www.linkedin.com/in/bhola-kumar-32115b250/"/></img>
 </div>
 
 ###
+<br/>
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+###
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bholacraft07&show_icons=true&locale=en&layout=compact" alt="bholacraft07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bholacraft07&show_icons=true&locale=en" alt="bholacraft07" /></p>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+###
 <br clear="both">
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bholacraft07" alt="bholacraft07" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/BholaCraft07/BholaCraft07/output/snake.svg" alt="Snake animation" />
+<p align="left"> <a href="https://twitter.com/bhola-kumar-03" target="blank"><img src="https://img.shields.io/twitter/follow/bhola-kumar-03?logo=twitter&style=for-the-badge" alt="bhola-kumar-03" /></a> </p>
+
 
 ###
