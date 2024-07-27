@@ -1,4 +1,6 @@
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhola+Kumar)](https://git.io/typing-svg)
 
 
