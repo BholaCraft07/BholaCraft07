@@ -13,7 +13,7 @@
  🌱 I’m currently learning **React , Redux ,Node js, Express Js ,MongoDb**
 <br/>
 <br/>
-💬 Ask me about ** HTML ,CSS,JavaScript,React**
+💬 Ask me about ** HTML ,CSS , JavaScript ,React , java**
 <br/>
 <br/>
 📫 How to reach me **https://www.linkedin.com/in/bhola-kumar-32115b250/**
