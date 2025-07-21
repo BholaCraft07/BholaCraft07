@@ -12,10 +12,10 @@ Node.js and Express.js. Solved 200+ competitive programming problems on LeetCode
 
   <div align="start">
  
- 🌱 I’m currently learning **React , Redux ,Node js, Express Js ,MongoDb**
+ 🌱 I’m currently learning ** Advanced Backend **
 <br/>
 <br/>
-💬 Ask me about ** HTML ,CSS , JavaScript ,React , java**
+💬 Ask me about ** HTML ,CSS , JavaScript ,React , java,Node ,express,mongoDb **
 <br/>
 <br/>
 📫 How to reach me **https://www.linkedin.com/in/bhola-kumar-32115b250/**
