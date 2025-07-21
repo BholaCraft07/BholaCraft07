@@ -77,18 +77,7 @@ Node.js and Express.js. Solved 200+ competitive programming problems on LeetCode
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  ><a href="https://www.linkedin.com/in/bhola-kumar-32115b250/"/></img>
 </div>
 
-###
-<br/>
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-###
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
