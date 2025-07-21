@@ -4,7 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhola+Kumar)](https://git.io/typing-svg)
 
 
-<h4 align="start">I’m an enthusiastic developer exploring full stack development and diving into data structures & algorithms. Driven by a passion for building efficient solutions and solving real-world problems, I’m dedicated to continuous growth and innovation in technology.</h4>
+<h4 align="start">Aspiring web developer with a strong foundation in data structures, backend development, and full-stack web engineering.
+Skilled in JavaScript, MySQL, and responsive UI design, with hands-on experience building a real-time chat application using
+Node.js and Express.js. Solved 200+ competitive programming problems on LeetCode and GfG, showcasing strong problemsolving abilities.</h4>
 
 <br/>
 
